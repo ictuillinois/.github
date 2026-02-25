@@ -1,7 +1,3 @@
-
-Readme · MD
-Copy
-
 # Illinois Center for Transportation (ICT) — GitHub Organization
 
 > **Where Transportation and Excellence Meet**  
