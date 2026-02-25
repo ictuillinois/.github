@@ -93,12 +93,12 @@ Individual repositories use the **MIT License** unless otherwise specified. See 
 ## Contact
 
 **Illinois Center for Transportation**  
-University of Illinois Urbana-Champaign  
-Rantoul Street, Urbana, IL 61801  
+1611 Titan Dr.
+Rantoul, IL 61866
 
 - Website: [ict.illinois.edu](https://ict.illinois.edu/)  
 - For repository access or research inquiries, contact the relevant project PI or open an issue in the appropriate repository.
 
 ---
 
-*This organization is maintained by ICT researchers at UIUC. Repository availability and access levels reflect ongoing research and data-sharing agreements with IDOT and other project sponsors.*
+*This organization is maintained by ICT researchers. Repository availability and access levels reflect ongoing research and data-sharing agreements with IDOT and other project sponsors.*
